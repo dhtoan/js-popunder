@@ -7,7 +7,7 @@
 
 * Author: Do Huy Toan
 * Contact: dohuytoan@live.com
-* Copyright: (c) 2014 EUS Inc.
+* Copyright: (c) 2014 David Lab.
 * Version: 2.0
 
 **Note**: 
