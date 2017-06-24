@@ -1,5 +1,5 @@
 /**
- * @author		Do Huy Toan <do huy toan at live dot com>
+ * @author		David Do <do huy toan at live dot com>
  * @since		Aug 30, 2014
  * @version		1.0
  * @since		Aug 30, 2014 - Fixed bugs on IE 6,7,8
@@ -10,7 +10,7 @@
 */
 var Light = Light || {};
 Light.Popup = {
-	popName:  'Toan-LightPopup',
+	popName:  'DavidDo-LightPopup',
 	alwaysPop: false, // refresh = new pop
 	onNewTab: true,
 	/**
