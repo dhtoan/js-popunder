@@ -47,3 +47,5 @@ There are all defaul options of popunder (if onNewTab = false)
     // refresh = new popup
     Light.Popup.create('site3.com', {alwaysPop: true});
     </script>
+
+P/s: I haven't updated it for a long time, if it don't working, Please email for me :)
