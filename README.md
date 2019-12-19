@@ -6,7 +6,7 @@
 ***
 
 * Author: Do Huy Toan
-* Contact: dohuytoan@live.com
+* Contact: do@doligo.net
 * Home: https://www.doligo.net/author/dhtoan
 * Copyright: (c) 2014 David Lab.
 * Version: 2.0
